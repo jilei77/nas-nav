@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": "nas",
+      "name": "NAS Core",
+      "sites": [
+        {
+          "id": "dsm",
+          "name": "Synology DSM",
+          "urlInternal": "http://192.168.1.50:5000",
+          "urlExternal": "https://dsm.example.com",
+          "description": "DiskStation Manager",
+          "icon": "nas"
+        },
+        {
+          "id": "1763936195453",
+          "name": "百度",
+          "urlInternal": "",
+          "urlExternal": "https://www.baidu.com",
+          "description": "ceshice ",
+          "icon": ""
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "password": "admin",
+    "openaiUrl": "",
+    "openaiKey": ""
+  }
+}
